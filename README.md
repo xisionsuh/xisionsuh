@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # 안녕하세요, 서희석입니다 👋
 
@@ -186,4 +186,3 @@ AI/기술 뉴스 자동 큐레이션 및 블로그
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
 
 </div>
-]]>
